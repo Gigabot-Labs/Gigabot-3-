@@ -10,6 +10,4 @@ At re:3D Inc.®, we believe that size shouldn’t hold you back. Gigabot rivals 
 * [Twitter](https://twitter.com/re_3d)
 * [Youtube](https://www.youtube.com/channel/UCYQ5gybxRj0CTDp9WIwy6Yg)
 
-## Guides and Troubleshooting 
 
-Please visit our [wiki](http://wiki.re3d.org/index.php?title=Main_Page) for more guides and information about the Gigabot 3D printer.
